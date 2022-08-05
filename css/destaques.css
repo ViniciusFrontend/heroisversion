@@ -1,0 +1,24 @@
+#featured-container{
+    margin-bottom: 1em;
+}
+
+.title{
+    font-size: 1.3em;
+    margin-bottom: 0.2em;
+    align-items: center;
+}
+
+
+
+#featured-images{
+    margin-top: 2em;
+    align-items: center;
+}
+
+#featured-images .col-md-4{
+    position: relative;
+    cursor: pointer;
+}
+
+
+

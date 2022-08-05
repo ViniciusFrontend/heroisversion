@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+}
+/*navbar*/
+#navbar{
+    border-bottom: 1px solid #7a7a7a;
+}
+
+#navbar:hover{
+    color: #7a7a7a;
+}
+
+#navbar a.active{
+    border-bottom:1px solid #050505 ;
+}
+
+.navbar-brand{
+    display: flex;
+}
+
+.navbar-brand img{
+    width: 15px;
+}
+
+.navbar-brand span{
+    font-weight: 50;
+    font-size: 1.1rem;
+    margin-left: 0rem;
+}
+
+#navbar-items .navbar-nav{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+#navbar-items .navbar-item{
+    margin: 0 1em;
+}
+

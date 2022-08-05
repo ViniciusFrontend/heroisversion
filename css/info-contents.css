@@ -1,0 +1,10 @@
+#info-content{
+    margin-bottom: 4em;
+    padding: 4em 1em;
+}
+
+#info-banner{
+    display: flex;
+    align-items: center;
+    
+}

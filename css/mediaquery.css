@@ -1,0 +1,86 @@
+@media(min-width:768px){
+    #slider .carousel-caption{
+        bottom: 3em;
+    }
+    
+    #slider .carousel-caption h5{
+        font-size: 4em;
+        text-shadow: #000 2px 3px;
+    }
+
+    #slider .btn{
+        padding: 0.6 1.6em;
+        font-size: 1.2em;
+    }
+
+    .carousel-indocators{
+        bottom: 7em;
+    }
+
+    #mini-banners .card-title{
+        margin-top: -2em;
+    }
+    #feactured-container{
+        margin-bottom: 4em;
+    }
+    .title{
+        font-size: 1.75em;
+        margin-bottom: 0.4em;
+        position: relative;
+    }
+
+    .title::before{
+        width: 75px;
+        border-top: 4px solid #7a7a7a;
+        content: '';
+        position: absolute;
+        bottom: 2em;
+    }
+}
+@media(min-width:468px){
+    #slider .carousel-caption{
+        bottom: 1em;
+    }
+    
+    #slider .carousel-caption h5{
+        font-size: 1em;
+    }
+
+    #slider .btn{
+        padding: 1 1em;
+        font-size: 1em;
+    }
+
+    .carousel-indocators{
+        bottom: 2em;
+    }
+
+    #mini-banners .card-title{
+        margin-top: -1em;
+    }
+    #feactured-container{
+        margin-bottom: 4em;
+    }
+    .title{
+        font-size: 1.2em;
+        margin-bottom: 0.4em;
+        position: relative;
+    }
+
+    .title::before{
+        width: 57px;
+        border-top: 2px solid #7a7a7a;
+        content: '';
+        position: absolute;
+        bottom: 2em;
+    }
+    .title{
+        font-size: 2.4em;
+    }
+    .title::before{
+        bottom: 1.5em;
+    }
+    #fatured-images .banner-content{
+        opacity: 0;
+    }
+}
