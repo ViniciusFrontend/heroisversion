@@ -1,0 +1,29 @@
+#footer{
+    padding: 3em 2em;
+}
+
+#footer-top{
+    margin-bottom: 2em;
+}
+
+#footer-top,
+#footer-top i{
+    color: #fff;
+}
+
+#social-icons{
+    text-align: right;
+}
+
+
+#footer-top h2:hover{
+    color: peru;
+}
+#social-icons i {
+    margin-right: 1em;
+    font-size: 1em;
+}
+
+#social-icons i:hover{
+    color: peru;
+}

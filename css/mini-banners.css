@@ -3,7 +3,7 @@
 }
 
 #mini-banners .card{
-    padding: 1em 0.3em;
+    padding: 0 0.1em;
     border-radius: 0;
     margin-bottom: 1em;
 }
@@ -13,10 +13,10 @@
 }
 
 #mini-banners .card-title{
-    margin-bottom: 1.5em;
+    margin-bottom: 1em;
 }
 
 #mini-banners .btn {
     margin-top: 1em;
-    padding: 0.4em 1em;
+    padding:0.5em ;
 }

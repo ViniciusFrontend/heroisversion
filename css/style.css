@@ -7,7 +7,7 @@
 }
 
 #navbar:hover{
-    color: #7a7a7a;
+    color: #050505;
 }
 
 #navbar a.active{
@@ -23,18 +23,18 @@
 }
 
 .navbar-brand span{
-    font-weight: 50;
-    font-size: 1.1rem;
-    margin-left: 0rem;
+    font-weight: 10;
+    font-size: 1rem;
+    margin-left: 2rem;
 }
 
 #navbar-items .navbar-nav{
     display: flex;
     justify-content: center;
-    width: 50%;
+    width: 20%;
 }
 
 #navbar-items .navbar-item{
-    margin: 0 1em;
+    margin: 0 2em;
 }
 
