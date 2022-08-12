@@ -31,7 +31,7 @@
 #navbar-items .navbar-nav{
     display: flex;
     justify-content: center;
-    width: 20%;
+    width: 50%;
 }
 
 #navbar-items .navbar-item{
