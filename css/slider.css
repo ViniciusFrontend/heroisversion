@@ -1,6 +1,6 @@
 #slider{
     margin-top: 6.0em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 #slider .carousel-caption{
@@ -13,11 +13,11 @@
 }
 
 .btn{
-    border-radius: 0;
+    border-radius: 4;
 }
 
 #slider .btn{
-    padding: 0.3 0.2em;
+    padding: 0 ;
     font-size: 1em;
     margin-top: 0.2em;
 }

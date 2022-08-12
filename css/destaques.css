@@ -1,14 +1,12 @@
 #featured-container{
-    margin-bottom: 1em;
+    margin-bottom: 5em;
 }
 
 .title{
     font-size: 1.3em;
     margin-bottom: 0.2em;
-    align-items: center;
+    position: relative;
 }
-
-
 
 #featured-images{
     margin-top: 2em;

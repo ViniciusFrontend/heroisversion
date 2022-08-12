@@ -59,7 +59,7 @@
         margin-top: -1em;
     }
     #feactured-container{
-        margin-bottom: 4em;
+        margin-bottom: 2em;
     }
     .title{
         font-size: 1.2em;
@@ -82,5 +82,8 @@
     }
     #fatured-images .banner-content{
         opacity: 0;
+    }
+    #info-content{
+        padding: .5rem;
     }
 }
